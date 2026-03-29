@@ -18,4 +18,4 @@ Backend is where I spend most of my time, but I care a lot about design too.
 
 ---
 
-<sub>nerd · always learning · </sub>
+<sub>always learning</sub>
