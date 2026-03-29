@@ -1,16 +1,21 @@
-## Hi there 👋
+### hey, I'm Juan 👋
 
-<!--
-**juanexpensive/juanexpensive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building things that work well and look good doing it.
 
-Here are some ideas to get you started:
+Backend is where I spend most of my time, but I care a lot about design too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**main stack**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,blazor" />
+
+---
+
+**everything else I've touched**
+
+<img src="https://skillicons.dev/icons?i=py,java,kotlin,js,ts,angular,react,unity,postgres,git" />
+
+---
+
+<sub>nerd · always learning · </sub>
