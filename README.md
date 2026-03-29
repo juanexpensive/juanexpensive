@@ -8,7 +8,7 @@ Backend is where I spend most of my time, but I care a lot about design too.
 
 **main stack**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,mysql" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql" />
 
 ---
 
