@@ -14,7 +14,7 @@ Backend is where I spend most of my time, but I care a lot about design too.
 
 **everything else I've touched**
 
-<img src="https://skillicons.dev/icons?i=py,java,kotlin,js,ts,angular,react,unity,postgres,git" />
+<img src="https://skillicons.dev/icons?i=py,java,kotlin,js,ts,angular,react,unity,postgres,mysql,spring,git" />
 
 ---
 
